@@ -1,5 +1,3 @@
----
-
 ### **String Reduction**
 
 Dada uma string composta pelas letras `a`, `b` e `c`, você pode realizar a seguinte operação:
